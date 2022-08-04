@@ -47,3 +47,19 @@
   ~/.oh-my-zsh/themes中有100多款主题。
 
   在~/.zshrc设置，参照其中*ZSH_THEME="robbyrussell"*的格式修改主题。
+  
+## 推荐一种主题
+
+* 下载powerlevel10k
+
+  [Github](https://github.com/romkatv/powerlevel10k)
+
+  把文件夹复制到.on-my-zsh/themes/powerlevel10k
+
+  在~/.zshrc设置，ZSH_THEME="powerlevel10k/powerlevel10k"
+
+  重新连接到shell，会进入样式调整阶段。
+
+  如果服务器无法连接外网，建议关闭fetch gitstatusd
+
+  进入~/.p10k.zsh，添加`typeset -g POWERLEVEL9K_DISABLE_GITSTATUS=true`
