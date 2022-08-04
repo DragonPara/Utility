@@ -41,7 +41,7 @@
   oh-my-zsh移动到~/.oh-my-zsh
 
   ```shell
-  sh install.sh
+  sh ~/.oh-my-zsh/tools/install.sh
   ```
 
   ~/.oh-my-zsh/themes中有100多款主题。
