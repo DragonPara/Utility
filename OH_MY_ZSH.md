@@ -1,4 +1,4 @@
-# OH MY ZSH
+# OH MY ZSH install
 
 ## 离线安装zsh
 
