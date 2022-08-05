@@ -1,3 +1,4 @@
+//求解自然对数e
 #include <stdio.h>
 double f(double y)
 {
